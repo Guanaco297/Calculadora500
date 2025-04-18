@@ -1,1 +1,0 @@
-// Tu script irá aquí
